@@ -69,3 +69,6 @@ func _ready():
 		
 	for i in range(3, 6, 3):
 		print(i)
+		
+func soma(a, b):
+	
